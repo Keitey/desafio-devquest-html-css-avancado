@@ -1,0 +1,121 @@
+
+@media (max-width: 992px) { 
+    .imagens {
+        display: block;
+        max-width: auto;
+        max-height: auto;
+    }
+    .imagem1 {
+        width: auto;
+        padding: 53px 19px 0px 20px;
+        margin-bottom: 0;
+    }
+    .imagem2 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem3 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem4 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 768px) { 
+    .imagens {
+        display: block;
+        max-width: auto;
+        max-height: auto;
+    }
+    .imagem1 {
+        width: auto;
+        padding: 53px 19px 0px 20px;
+        margin-bottom: 0;
+    }
+    .imagem2 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem3 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem4 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 576px) { 
+    .imagens {
+        display: block;
+        max-width: auto;
+        max-height: auto;
+    }
+    .imagem1 {
+        width: auto;
+        padding: 53px 19px 0px 20px;
+        margin-bottom: 0;
+    }
+    .imagem2 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem3 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem4 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 480px) { 
+    .imagens {
+        display: block;
+        max-width: auto;
+        max-height: auto;
+    }
+    .imagem1 {
+        width: auto;
+        padding: 53px 19px 0px 20px;
+        margin-bottom: 0;
+    }
+    .imagem2 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem3 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imagem4 {
+        width: auto;
+        padding: 0px 19px 0px 20px;
+        margin-top: 0;
+    }
+}

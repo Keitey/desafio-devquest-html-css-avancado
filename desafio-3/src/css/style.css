@@ -1,0 +1,125 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+body{
+    max-width: 1440px;
+}
+
+section{
+    display: flex;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+h1{
+    width: 17.5rem;
+    margin: 1rem 0rem;
+}
+
+h2{
+    width: 16.2rem;
+}
+
+p{
+    display: flex;
+}
+
+h2, p{
+    margin-bottom: 0.5rem;
+    margin-left: 0.4rem;
+}
+
+.propaganda{
+    display: flex;
+    width: 27rem;
+    height: 5.6rem;
+    background-color: #C4C4C4;
+}
+
+.texto-propaganda{
+    margin: 2.2rem 10.4rem 2.1rem;
+}
+
+.paragrafo-principal{
+    width: 32.6rem;
+    height: 5.2rem;
+}
+
+.view-principal{
+    margin-bottom: 1rem;
+}
+
+.visualizacao-principal{
+    width: 9.7rem;
+    
+}
+
+.paragrafo-destaque{
+    width: 32.6rem;
+    height: 5.2rem;
+}
+
+.nome-canal{
+    width: 6.3rem;
+}
+
+.visualizacoes{
+    width: 10rem;
+}
+
+.tempo-postagem{
+    width: 6.8rem;
+}
+
+.layout h1, h2{
+    font-size: 1.4rem;
+    font-weight: 700;
+    height: 1.6rem;
+}
+
+.layout p{
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+.layout{
+    margin: 3rem;
+    display: grid;
+    grid-template-columns: 32.6rem 27rem;
+    grid-template-rows: repeat(4, 7.1rem);
+    grid-gap: 1.5rem;
+    width: 65.6rem;
+    height: 36.8rem;
+}
+
+.segundo-video{
+    display: flex;
+    grid-area: 2 / 2;
+}
+
+.terceiro-video{
+    display: flex;
+    grid-area: 3 / 2;
+}
+
+.quarto-video{
+    display: flex;
+    grid-area: 4 / 2;
+}
+
+.propaganda{
+    display: flex;
+    grid-area: 1 / 2;
+}
+
+@media(min-width: 1200px){
+    .painel{
+        display: grid;
+    } 
+}
